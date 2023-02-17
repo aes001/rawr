@@ -1,2 +1,2 @@
 # rawr
-rawr xd bash "fun" utility
+*rawr* xd :3, a bash "fun" utility.
